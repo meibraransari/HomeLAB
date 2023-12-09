@@ -41,8 +41,8 @@ Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! �
 Services, that I am using for DevOps daily operation.
 | Service Name | Description |
 |--------------|-------------|
-|Proxmox | Proxmox Virtual Environment is a hyper-converged infrastructure open-source software. It is a hosted hypervisor that can run operating systems including Linux and Windows on x64 hardware.|
-|Linux OS | Ubuntu, CentOS, Debian, Alpine |
+|✅Proxmox | Proxmox Virtual Environment is a hyper-converged infrastructure open-source software. It is a hosted hypervisor that can run operating systems including Linux and Windows on x64 hardware.|
+|✅Linux OS | Ubuntu, CentOS, Debian, Alpine |
 |Database Host | Database(MySQL, Postgres, MongoDB) hosted for some personal tasks and testing purposes |
 |Kubernetes|Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management. Originally designed by Google, the project is now maintained by the Cloud Native Computing Foundation. |
 |TrueNAS|TrueNAS is the branding for a range of free and open-source network-attached storage operating systems produced by iXsystems, and based on FreeBSD and Linux, using the OpenZFS file system.|
