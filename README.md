@@ -51,8 +51,6 @@ Services, that I am using for DevOps daily operation.
 | prometheus | Monitoring and alerting system (How I scrape metrics) |
 | grafana | Data visualization and analytics platform (Dashboards) |
 | cloudflare-tunnel | Cloudflare tunnel for secure access to some applications |
-
-```
 |Proxmox | Proxmox Virtual Environment is a hyper-converged infrastructure open-source software. It is a hosted hypervisor that can run operating systems including Linux and Windows on x64 hardware.|
 -> Linux OS        
         Ubuntu, CentOS, Debian, Alpine
