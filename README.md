@@ -36,7 +36,7 @@ Routers:
         -> TPLink is for Fiber Connectivity & Netgear for LAN
 ```
 
-# Services I use in my Lab:
+# Services, which I'm using in my Lab:
 
 Services, that I am using for DevOps daily operation.
 ```
