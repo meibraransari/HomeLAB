@@ -6,7 +6,7 @@ Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! �
 
 <img src="Home-Lab.png" alt="Home-Lab.png" width="800"/>
 
-# 🖌💻 Hardware Details
+# 💻 Hardware Details
 
 ```
 🟢 Server:
