@@ -1,5 +1,5 @@
 # 🎪 About My Homelab
-🔄🏡 Small Homelab for 2023! 💻🔧
+🏡 Small Homelab for 2023! 💻
 
 Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! 🤓 
 🚀 As a DevOps engineer we need a lab where we can deploy & test our microservices/applications. Here is my home lab. Nothing special but mine.
