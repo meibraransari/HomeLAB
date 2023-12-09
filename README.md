@@ -64,4 +64,5 @@ Services, that I am using for DevOps daily operation.
 |Umbrel|A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS|
 
 ### Connect with me
-[Youtube](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1)
+[Youtube](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1){:target="_blank"}
+
