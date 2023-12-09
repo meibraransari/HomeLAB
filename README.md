@@ -35,7 +35,7 @@ Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! �
         ➺ TPLink is for Fiber Connectivity & Netgear for LAN
 ```
 
-# ✔️ Services, which I'm using in my Lab:
+# 📌 Services, which I'm using in my Lab:
 
 🤓 Services, that I am using for DevOps daily operation.
 | Service Name | Description |
