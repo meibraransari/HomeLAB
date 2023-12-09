@@ -10,14 +10,14 @@ Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! �
 
 ```
 🟢 Server:
-        -> Dell Precision T5810:
+        ➺ Dell Precision T5810:
                 CPU: Xeon E-2673 v3 12Core/24Thread CPU
                 Memory: 64GB DDR3-1600
                 Storage: (500 SSD Boot Drive + 500 SSD + 2 TB HDD)
                 GPU: Nvidia Quadro K-2200 4GB Graphics 
                 OS: Proxmox 
 🟢 Personal System
-        -> Desktop PC has the below config:
+        ➺ Desktop PC has the below config:
                 CPU: AMD Ryzen 7 5800X 3.8 GHz
                 Motherboard: ASUS B550 Prime B550M-A WiFi II
                 Memory: Corsair 8x4 32GB DDR4 Ram
@@ -29,10 +29,10 @@ Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! �
                 Mouse: Logitech M235
                 Alexa Echo Dot (3rd Gen)
 🟢 Laptop:
-        -> Dell Latitude 5490 (i7 CPU, 16GB Memory, 500GB SSD)
+        ➺ Dell Latitude 5490 (i7 CPU, 16GB Memory, 500GB SSD)
 
 🟢 Router: 
-        -> TPLink is for Fiber Connectivity & Netgear for LAN
+        ➺ TPLink is for Fiber Connectivity & Netgear for LAN
 ```
 
 # ✔️ Services, which I'm using in my Lab:
