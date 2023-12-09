@@ -39,6 +39,19 @@ Routers:
 # Services, which I'm using in my Lab:
 
 Services, that I am using for DevOps daily operation.
+| Service Name | Description |
+|--------------|-------------|
+| traefik | Reverse proxy/load balancer with Let's Encrypt for TLS Certs|
+| tailscale | VPN for remote access to my homelab |
+| portainer | Docker/Kubernetes Management Platform/UI |
+| pihole | DNS server and ad-blocker |
+| passbolt | Self Hosted Password/Secrets Manager |
+| db | MariaDB for Passbolt password manager |
+| jenkins | Continuous integration and delivery (CI/CD) server |
+| prometheus | Monitoring and alerting system (How I scrape metrics) |
+| grafana | Data visualization and analytics platform (Dashboards) |
+| cloudflare-tunnel | Cloudflare tunnel for secure access to some applications |
+
 ```
 -> Proxmox
         Proxmox Virtual Environment is a hyper-converged infrastructure open-source software. It is a hosted hypervisor that can run operating systems including Linux and Windows on x64 hardware.
