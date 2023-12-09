@@ -41,8 +41,8 @@ Routers:
 Services, that I am using for DevOps daily operation.
 | Service Name | Description |
 |--------------|-------------|
-| traefik | Reverse proxy/load balancer with Let's Encrypt for TLS Certs|
-| tailscale | VPN for remote access to my homelab |
+| Proxmox | Reverse proxy/load balancer with Let's Encrypt for TLS Certs|
+| tailscale | Proxmox Virtual Environment is a hyper-converged infrastructure open-source software. It is a hosted hypervisor that can run operating systems including Linux and Windows on x64 hardware. |
 | portainer | Docker/Kubernetes Management Platform/UI |
 | pihole | DNS server and ad-blocker |
 | passbolt | Self Hosted Password/Secrets Manager |
