@@ -11,12 +11,11 @@ Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! �
 ```
 🟢 Server:
         -> Dell Precision T5810:
-                Xeon E-2673 v3 12Core/24Thread CPU
-                64GB DDR3-1600 Ram
-                500 SSD Boot Drive
-                STORAGE 2 TB HDD
-                Nvidia Quadro K-2200 4GB Graphics 
-                Operating Systems: Proxmox 
+                CPU: Xeon E-2673 v3 12Core/24Thread CPU
+                Memory: 64GB DDR3-1600
+                Storage: (500 SSD Boot Drive + 500 SSD + 2 TB HDD)
+                GPU: Nvidia Quadro K-2200 4GB Graphics 
+                OS: Proxmox 
 🟢 Personal System
         -> Desktop PC has the below config:
                 CPU: AMD Ryzen 7 5800X 3.8 GHz
