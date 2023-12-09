@@ -64,7 +64,7 @@ Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! �
 
 ### Connect with me 👇👇
 
-- 🔥 [Youtube:](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1)
+- 🔥 [**Youtube:**](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1)
 - ✍ [Blog:](https://ibraransari.blogspot.com/)
 - 💼 [LinkedIn:](https://www.linkedin.com/in/ansariibrar/)
 - 👨‍💻 [Github:](https://github.com/meibraransari?tab=repositories)
