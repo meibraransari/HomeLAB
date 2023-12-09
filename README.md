@@ -38,8 +38,7 @@ Routers:
 
 # Services I use in my Lab:
 
-Services that I bring up using Docker Compose
-
+Services that I am using for DevOps daily operation.
 ```
 -> Proxmox
         Proxmox Virtual Environment is a hyper-converged infrastructure open-source software. It is a hosted hypervisor that can run operating systems including Linux and Windows on x64 hardware.
