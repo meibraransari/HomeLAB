@@ -63,8 +63,12 @@ Services, that I am using for DevOps daily operation.
 |Netdata|Netdata is a distributed real-time, health monitoring platform for systems, hardware, containers & applications, collecting metrics.|
 |Umbrel|A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS|
 
-### Connect with me
-[Youtube](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1){:target="_blank"}
-[Youtube](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1){:target="_blank"}
+### Connect with me 👇👇
+
+🔥 [Youtube:](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1)
+✍ [Blog:](https://ibraransari.blogspot.com/)
+💼 [LinkedIn:](linkedin.com/in/ansariibrar)
+👨‍💻 [Github:](https://github.com/meibraransari/)
+💬 [Telegram:](https://t.me/DevOpsinActionTelegram)
 
 
