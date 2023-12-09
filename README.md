@@ -41,7 +41,7 @@ Routers:
 Services, that I am using for DevOps daily operation.
 | Service Name | Description |
 |--------------|-------------|
-| Proxmox | Reverse proxy/load balancer with Let's Encrypt for TLS Certs|
+| Proxmox | Proxmox Virtual Environment is a hyper-converged infrastructure open-source software. It is a hosted hypervisor that can run operating systems including Linux and Windows on x64 hardware.|
 | tailscale | Proxmox Virtual Environment is a hyper-converged infrastructure open-source software. It is a hosted hypervisor that can run operating systems including Linux and Windows on x64 hardware. |
 | portainer | Docker/Kubernetes Management Platform/UI |
 | pihole | DNS server and ad-blocker |
@@ -53,8 +53,7 @@ Services, that I am using for DevOps daily operation.
 | cloudflare-tunnel | Cloudflare tunnel for secure access to some applications |
 
 ```
--> Proxmox
-        Proxmox Virtual Environment is a hyper-converged infrastructure open-source software. It is a hosted hypervisor that can run operating systems including Linux and Windows on x64 hardware.
+|Proxmox | Proxmox Virtual Environment is a hyper-converged infrastructure open-source software. It is a hosted hypervisor that can run operating systems including Linux and Windows on x64 hardware.|
 -> Linux OS        
         Ubuntu, CentOS, Debian, Alpine
 -> Database Host
