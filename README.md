@@ -38,7 +38,7 @@ Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! �
 
 # ✔️ Services, which I'm using in my Lab:
 
- Services, that I am using for DevOps daily operation.
+🤓 Services, that I am using for DevOps daily operation.
 | Service Name | Description |
 |--------------|-------------|
 |✅Proxmox | Proxmox Virtual Environment is a hyper-converged infrastructure open-source software. It is a hosted hypervisor that can run operating systems including Linux and Windows on x64 hardware.|
