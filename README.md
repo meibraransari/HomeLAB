@@ -9,15 +9,15 @@ Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! �
 # Hardware Details
 
 
-|Server:|
+🟢 Server:
         -> Dell Precision T5810:
                 Xeon E-2673 v3 12Core/24Thread CPU
                 64GB DDR3-1600 Ram
                 500 SSD Boot Drive
                 STORAGE 2 TB HDD
                 Nvidia Quadro K-2200 4GB Graphics 
-                Operating Systems: Proxmox |
-Personal System
+                Operating Systems: Proxmox 
+🟢 Personal System
         -> Desktop PC has the below config:
                 AMD Ryzen 7 5800X 3.8 GHz
                 ASUS B550 Prime B550M-A WiFi II
@@ -29,10 +29,10 @@ Personal System
                 Keyboard: TVS Gold
                 Mouse: Logitech M235
                 Alexa Echo Dot (3rd Gen)
-Laptop:
+🟢 Laptop:
         -> Dell Latitude 5490 (i7 CPU, 16GB Memory, 500GB SSD)
 
-Routers: 
+🟢 Router: 
         -> TPLink is for Fiber Connectivity & Netgear for LAN
 
 
