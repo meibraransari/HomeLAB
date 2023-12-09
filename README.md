@@ -1,4 +1,4 @@
-# About my Homelab Setup
+# About My Homelab
 
 <img src="Home-Lab.png" alt="Home-Lab.png" width="800"/>
 
