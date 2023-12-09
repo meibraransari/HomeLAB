@@ -1,12 +1,12 @@
 # About My Homelab
+🔄🏡 Small Homelab for 2023! 💻🔧
+
+Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! 🤓 
+🚀 As a DevOps engeener we neeed a lab where we can deploy & test our microservices/application. Here is my homelab. Nothing special but mine.
 
 <img src="Home-Lab.png" alt="Home-Lab.png" width="800"/>
 
 # Hardware Details
-
-🔄🏡 Small Homelab for 2023! 💻🔧
-Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! 🤓 
-🚀 As a DevOps engeener we neeed a lab where we can deploy & test our microservices/application. Here is my homelab. Nothing special but mine.
 
 ```
 Server:
