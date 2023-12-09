@@ -40,39 +40,57 @@ Routers:
 
 Services that I bring up using Docker Compose
 
-| Service Name | Description |
-|--------------|-------------|
-| traefik | Reverse proxy/load balancer with Let's Encrypt for TLS Certs|
-| tailscale | VPN for remote access to my homelab |
-| portainer | Docker/Kubernetes Management Platform/UI |
-| pihole | DNS server and ad-blocker |
-| passbolt | Self Hosted Password/Secrets Manager |
-| db | MariaDB for Passbolt password manager |
-| jenkins | Continuous integration and delivery (CI/CD) server |
-| prometheus | Monitoring and alerting system (How I scrape metrics) |
-| grafana | Data visualization and analytics platform (Dashboards) |
-| cloudflare-tunnel | Cloudflare tunnel for secure access to some applications |
-
-
-
-# Bring up all services
-
-1. Create a `.env` file based on the `.env_template` file.
-
 ```
-cp env_template .env
+-> Proxmox
+        Proxmox Virtual Environment is a hyper-converged infrastructure open-source software. It is a hosted hypervisor that can run operating systems including Linux and Windows on x64 hardware.
+        https://www.proxmox.com/en/
+-> OPNsense
+        OPNsense is an open source, FreeBSD-based firewall and routing software developed by Deciso, a company in the Netherlands that makes hardware and sells support packages for OPNsense. It is a fork of pfSense, which in turn was forked from m0n0wall built on FreeBSD.
+-> Linux OS        
+        Ubuntu, CentOS, Debian, Alpine
+-> Nginx & Nginx proxy manager
+        We are using it to access our microservices
+        https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/
+        https://nginxproxymanager.com/
+-> Kubernetes
+        Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management. Originally designed by Google, the project is now maintained by the Cloud Native Computing Foundation. 
+        https://kubernetes.io/
+        kubectl cluster-info
+        kubectl get nodes -o wide | awk -v OFS='\t' '{print $1, $6}'
+-> Rancher
+        Rancher, the open-source multi-cluster orchestration platform, lets operations teams deploy, manage and secure enterprise Kubernetes. 
+        https://www.rancher.com/ 
+-> TrueNAS
+        TrueNAS is the branding for a range of free and open-source network-attached storage operating systems produced by iXsystems, and based on FreeBSD and Linux, using the OpenZFS file system.
+-> MINIO SERVER
+        MinIO® is an object storage server, compatible with Amazon S3 cloud storage service, mainly used for storing unstructured data (such as photos, videos, log files, etc.).
+        https://min.io
+        https://hub.docker.com/r/bitnami/minio/
+-> Docker
+        Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. The service has both free and premium tiers. The software that hosts the containers is called Docker Engine.
+        https://www.docker.com/
+-> Database Host
+        Database(MySQL, Postgres, MongoDB) hosted for some personal tasks and testing purpose
+-> Portainer
+        Portainer is your container management software to deploy, troubleshoot, and secure applications across cloud, datacenter, and Industrial IoT use cases.
+-> Zabbix
+        Zabbix is an open-source software tool to monitor IT infrastructure such as networks, servers, virtual machines, and cloud services. Zabbix collects and displays basic metrics.
+        https://www.zabbix.com/
+-> Uptime Kuma
+        Uptime Kuma. Uptime Kuma is an easy-to-use self-hosted monitoring tool. 
+        https://uptime.kuma.pet/
+        https://demo.uptime.kuma.pet:27000/
+-> Traefik
+        Reverse proxy/load balancer with Lets Encrypt for TLS Certs
+        Traefik is the leading open-source reverse proxy and load balancer for HTTP and TCP-based applications that is easy, dynamic and full-featured
+        https://traefik.io/traefik/
+-> excalidraw
+        Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them
+        https://excalidraw.com/
+-> pihole
+        Pi-hole is a Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.
+        https://pi-hole.net/
+-> Gitlab
+        GitLab Community Edition docker image based on the Omnibus package.
+        https://docs.gitlab.com/ee/install/docker.html
 ```
-
-2. Modify the values of each environment variable to whats suitable for your environment.
-
-```
-vi .env
-```
-
-3. Bring up all services with docker-compose up
-
-```
-docker-compose up -d
-```
-
-Got errors? Troubleshoot based on the error messages! This is a complex setup, likely it is better for you to start from scratch, and copy/paste components of my setup into your own setup.  I suggest bringing up one service at a time, then adding on things like Traefik.
