@@ -8,7 +8,7 @@ Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! �
 
 # Hardware Details
 
-
+```
 🟢 Server:
         -> Dell Precision T5810:
                 Xeon E-2673 v3 12Core/24Thread CPU
@@ -34,7 +34,7 @@ Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! �
 
 🟢 Router: 
         -> TPLink is for Fiber Connectivity & Netgear for LAN
-
+```
 
 # Services, which I'm using in my Lab:
 
