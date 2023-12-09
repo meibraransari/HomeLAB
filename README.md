@@ -1,4 +1,4 @@
-# About My Homelab
+# 🎪 About My Homelab
 🔄🏡 Small Homelab for 2023! 💻🔧
 
 Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! 🤓 
