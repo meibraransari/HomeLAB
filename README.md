@@ -65,4 +65,6 @@ Services, that I am using for DevOps daily operation.
 
 ### Connect with me
 [Youtube](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1){:target="_blank"}
+[Youtube](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1){:target="_blank"}
+
 
