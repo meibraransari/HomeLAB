@@ -19,12 +19,12 @@ Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! �
                 Operating Systems: Proxmox 
 🟢 Personal System
         -> Desktop PC has the below config:
-                AMD Ryzen 7 5800X 3.8 GHz
-                ASUS B550 Prime B550M-A WiFi II
-                Corsair 8x4 32GB DDR4 Ram
-                1TB SSD
-                1 TB HDD
-                Operating Systems: Windows 10
+                CPU: AMD Ryzen 7 5800X 3.8 GHz
+                Motherboard: ASUS B550 Prime B550M-A WiFi II
+                Memory: Corsair 8x4 32GB DDR4 Ram
+                Storage: (1TB SSD + 1 TB HDD)
+                Cabinet: Ant Esports 690 Air
+                OS: Windows 10
                 Monitor: Dell 
                 Keyboard: TVS Gold
                 Mouse: Logitech M235
