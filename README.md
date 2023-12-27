@@ -3,7 +3,7 @@
 
 Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! 😊
 🚀 As a DevOps engineer we need a lab where we can deploy & test our microservices/applications. Here is my home lab. Nothing special but mine.
-<img src="Home-Lab.png" alt="Proxmox_Dashboard.png" width="800"/>
+<img src="Proxmox_Dashboard.png" alt="Proxmox_Dashboard.png" width="800"/>
 <img src="Home-Lab.png" alt="Home-Lab.png" width="800"/>
 
 # 💻 Hardware Details
