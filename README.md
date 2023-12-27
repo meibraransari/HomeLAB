@@ -53,7 +53,7 @@ Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! �
 |✅Jenkins|Jenkins is an open-source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration, and continuous delivery.|
 |✅Portainer|Portainer is your container management software to deploy, troubleshoot, and secure applications across cloud, data center, and Industrial IoT use cases.|
 |✅Uptime Kuma|Uptime Kuma. Uptime Kuma is an easy-to-use self-hosted monitoring tool. |
-|✅Nginx & Nginx proxy manager|We are using it to access our microservices|
+|✅Nginx proxy manager|We are using it to access our microservices|
 |✅Pihole|Pi-hole is a Linux network-level advertisement and Internet tracker blocking application that acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.|
 |✅Excalidraw|Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them|
 |✅Emby|Emby is a media server designed to organize, play, and stream audio and video to a variety of devices.|
