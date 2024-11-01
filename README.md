@@ -1,3 +1,8 @@
+---
+Created: 2024-11-01T22:17:01+05:30
+Updated: 2024-11-01T22:20:03+05:30
+Maintainer: Ibrar Ansari
+---
 # 🎪 About My Homelab
 🏡 Small Homelab for 2023! 💻
 
@@ -7,6 +12,10 @@ Hey folks! 👋 I am excited to give you a sneak peek into my Homelab setup! �
 
 <img src="Proxmox_Dashboard.png" alt="Proxmox_Dashboard.png" width="800"/>
 <img src="Home-Lab.png" alt="Home-Lab.png" width="800"/>
+
+## 🎬 Video Demonstration
+[![Watch on Youtube](https://i.ytimg.com/vi/sxfWdb0wwak/maxresdefault.jpg)](https://youtu.be/sxfWdb0wwak?si=fpwlBIFz-tmJM895)
+
 
 # 💻 Hardware Details
 
